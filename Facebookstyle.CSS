@@ -1,0 +1,113 @@
+
+body{ background-color: #f0f2f5;
+
+}
+ul{
+    list-style-type: none;
+    margin-top: 160px;
+}
+#li10{
+    margin-left: 160px;
+    float: left;
+}
+h1{color: #1877f2; 
+    font-size: 69px;
+    margin-bottom: 10px;
+ }
+h3{
+    font-size: 30px;
+    opacity: 0.8;
+    margin-top: 0px;
+}
+#li11{ float: left;
+        margin-top: 0px;
+        margin-left:120px;
+}
+div{ background-color: #ffffff;
+    width: 430px;
+    padding:21px;
+    border: 5px solid #f0f2f5;
+    margin-left: 200px;
+    padding-bottom: 30px;
+    border-radius: 16px;
+}
+input[type=text],input[type=password]{
+    border: 2px solid #dddfe2;
+    width: 390px;
+    padding: 15px;
+    font-size: 18px;
+    opacity: 0.8;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+#button1{
+    background-color: #166fe5;
+    color: white;
+    width: 420px;
+    font-size: 24px;
+    padding: 10px;
+    border: 1px solid #166fe5;
+    border-radius: 8px;
+}
+#button1:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+#a1{
+    color: #398af4;
+    text-decoration: none;
+    margin-left: 140px;
+    font-size: 17px;
+    margin-top: 16px;
+}
+#a1:hover{
+        text-decoration: underline;
+}
+hr{
+    border: 1px solid #dddfe2;
+    margin-top: 16px;
+}
+#button2{
+    background-color: #36a420;
+    color: white;
+    font-size: 19px;
+    padding: 14px;
+    margin-top: 15px;
+    margin-left: 115px;
+    border-radius: 8px;
+    border: 1px solid #36a420 ;
+    font-weight: bold ;
+
+}
+#button2:hover{
+ cursor: pointer;
+ opacity: 0.8;
+}
+pre{
+    margin-left: 145px;
+    margin-top: 21px;
+
+}
+#a2{
+    font-weight: bold ;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin-left: 135px;
+
+}
+#a2:hover{
+    text-decoration: underline;
+}
+b{
+    font-size: 14px;
+    margin-left: 8px;
+}
+#pulock{
+    text-decoration: none;
+    color: blue;
+    font-size: 60px;
+}
+#pulock:hover{
+    text-decoration: underline;
+}
